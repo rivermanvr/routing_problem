@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 import Courses from './containers/Courses/Courses';
@@ -23,5 +22,6 @@ class App extends Component {
     );
   }
 }
+
 
 export default App;
